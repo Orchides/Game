@@ -38,7 +38,7 @@ local Tab1 = Window:CreateTab("Sub To C02 Script")
 
 
 
-local Section1 = Tab1:CreateSection("Autofarming Section")
+local Section1 = Tab1:CreateSection("Auto Farming Section")
 
 
 
