@@ -86,7 +86,7 @@ end
 
 
 
-local autofarm = Section1:CreateToggle("Autofarm", nil, function(State)
+local autofarm = Section1:CreateToggle("Auto Farm", nil, function(State)
 
 
 
@@ -158,7 +158,7 @@ vu:Button1Down(Vector2.new())
 
 
 
-local autoequip = Section1:CreateToggle("Auto Equip Katana", nil, function(State)
+local autoequip = Section1:CreateToggle("Auto Katana", nil, function(State)
 
   tog = State
 
