@@ -4,17 +4,15 @@ local Config = {
 
 
 
-Color = Color3.fromRGB(243,4,4),
+Color = Color3.fromRGB(30,144,255),
 
 
 
-Keybind = Enum.KeyCode.RightShift -- Doesn't work
+Keybind = Enum.KeyCode.RightShift 
 
 
 
 }
-
-
 
 
 
@@ -32,7 +30,7 @@ local Window = Library:CreateWindow(Config, game:GetService("CoreGui"))
 
 
 
-local Tab1 = Window:CreateTab("Main | youtube.com/bugxie")
+local Tab1 = Window:CreateTab("Sub To C02 Script")
 
 
 
